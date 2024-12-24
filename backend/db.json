@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "52c6",
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "admin@123",
+      "userPhoneNo": "987654320"
+    },
+    {
+      "id": "c3ad",
+      "username": "saurbh",
+      "useremail": "saurbh@gmail.com",
+      "userpassword": "saurbh@123",
+      "userPhoneNo": "987654320"
+    },
+    {
+      "id": "3062",
+      "username": "ranjan",
+      "useremail": "ranjankumarsah021@gmail.com",
+      "userpassword": "Ranjan2123",
+      "userPhoneNo": "784561212"
+    },
+    {
+      "id": "0e86",
+      "username": "ranjan",
+      "useremail": "ranjankumarsah021@gmail.com",
+      "userpassword": "12345",
+      "userPhoneNo": "784561212"
+    },
+    {
+      "id": "a4c1",
+      "username": "rah",
+      "useremail": "rag@yahoo.in",
+      "userpassword": "45612",
+      "userPhoneNo": "1234567890"
+    },
+    {
+      "id": "Bdp_q4a"
+    },
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "admin@123",
+      "userPhoneNo": "9876543210",
+      "id": "q__O2Px"
+    },
+    {
+      "username": "test",
+      "useremail": "test@gmail.com",
+      "userpassword": "12",
+      "userPhoneNo": "987654320000",
+      "id": "k0TrH6_"
+    }
+  ]
+}
